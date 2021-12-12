@@ -1,0 +1,60 @@
+.container {
+  background-color: #e9e8e8;
+}
+
+.card-box {
+  padding: 20px;
+  background-color: white;
+  border-bottom: 3px solid #d8d8d8;
+  margin: 10px 0px;
+}
+
+.first-row {
+  padding: 10px;
+}
+
+.progress {
+  margin-top: 12px;
+}
+
+.card-box.card-pink i {
+  color: #db276c;
+}
+.card-box.card-pink .colorized {
+  color: #db276c;
+}
+.card-box.card-pink .progress-bar {
+  background-color: #db276c;
+}
+
+.card-box.card-green i {
+  color: #128555;
+}
+.card-box.card-green .colorized {
+  color: #128555;
+}
+.card-box.card-green .progress-bar {
+  background-color: #128555;
+}
+
+.card-box.card-blue i {
+  color: #13aabe;
+}
+.card-box.card-blue .colorized {
+  color: #13aabe;
+}
+.card-box.card-blue .progress-bar {
+  background-color: #13aabe;
+}
+
+.card-box.card-orange i {
+  color: #e43c09;
+}
+.card-box.card-orange .colorized {
+  color: #e43c09;
+}
+.card-box.card-orange .progress-bar {
+  background-color: #e43c09;
+}
+
+/*# sourceMappingURL=style.css.map */
